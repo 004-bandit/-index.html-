@@ -1,0 +1,113 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<html style="background-color: #454545">
+   <style type="text/css">
+      @html {
+         font-family:algebra;
+      }
+      /* you can now use your custom font */
+      html {
+         font-family: myFont;
+     border: 7px solid grey;
+border-radius: 4px;
+        }
+        body {
+     color: white;
+      }
+div, p {
+border: 6px solid black;
+box-shadow: .2px .9px 2px 0px #808080;
+border-radius: 6px;
+}
+   </style>
+<center>
+
+<h1> <div style="background-color: silver; color: black; border:none; box-shadow:.2px .9px 2px 0px #808080" >Ama perfect touch</h1>
+
+</center>
+<li class="nav-item">
+ <a class="nav-link" href="we do makeups and train people who are interested in learning makeup or fashion as a profession" alt="what we specialize in"  href style="color:silver; font-size: 25px">About</a>
+ </li>
+<li class="nav-item"> 
+<a class="nav-link" href="no user data is shared or managed because we dont collect user data at all" alt="how we manage user data" href style="color: silver; font-size: 25px"> privacy policy</a>
+<li class="nav-item">
+<a class="nav-link" href="https://www.facebook.com/profile.php?id=100074145973544"  alt=""  href style="color: silver; font-size: 25px"> Reach Builder</a>
+ </li>
+
+<center>
+<body>
+<p style="color: black; border: none; font-size: 60px; box-shadow: none"><u> <i>Explained</u></i>
+<div style=" background-color:black; font-size: 40px"><b>
+A well talented makeup artist with huge potentials, i have done make up for 2years now and am now a master in my work based on equipments, tools and skilled styling I would make your wedding a never to forget marriage, your birthday captions, snaps and so on are in good hands, i travel to make sure my clients get the best of what they ordered and price is somehow meduim but remember that you get quality stuffs for good prices. take a look at the beauty we achieve with passion
+</div>
+</body>
+<br />
+<p style="color: black; border: none; font-size: 60px; box-shadow: none"><u> <i>Workflow</p></u></i>
+<!-- pictures go here-->
+<img src="studiocam.png /">
+<img src="studiopic.png/">
+<p style="background-color: black; font-size: 40px">
+You can see my Instagram page below, i am a legit make up artist but without you my skills are nothing,
+<br />
+check out the video of our happy customers who got the best from us.
+<iframe width="322" height="315"
+  src="https://www.youtube.com/embed/TMlCwJP3arU" frameborder="0"></iframe>
+</body>
+<p style="background-color:black; font-size: 40px">Those videos above are among the make ups i have done with my fellow make up artist during extraordinary occasions that needs more than two hands.<br />I would be sharing some makeup tips on my YouTube channel, subscribe to stay tuned 😊
+<br />
+<div style="background-color: black; box-shacow:.2px .9px 2px 0px #808080">
+<h2>Your beauty is our concern</h2>
+</div><br />
+<style type="text/css">
+p {
+border: 1px solid silver;
+border-radius: 7px;
+padding-left: 5px;
+padding-right: 5px;
+}
+</style>
+
+<p> Nail braiding <br />
+   <p> snap shot <br />
+     <p>wedding dressing and makeup<br />
+     <p>birthday make-up<br />
+    <p> casual makeup <br />
+    <p>studio pictures <br />
+     <p>Learning skills<br />
+     <p>kits<br />
+</p>
+</ul>
+<hr />
+
+<style type="text/css">
+a:link {
+text-decoration: none;
+font-size: 36px;
+}
+</style>
+<!-- ig icons and logos needs to be added with a color background for the list-->
+
+<div style="background-color: silver; border: none; height: 242px">
+
+
+<text style="font-size: 28px">contact us on<br />
+
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- Add font awesome icons -->
+<a target="_blank" href="https://www.facebook.com/stephanie.amarachi.104/" href style="color: blue" class="fa fa-facebook"></a>
+<a target="_blank" href="https://instagram.com/ama_perfecttouch?igshid=YmMyMTA2M2Y=/" href style="color: red"  class="fa fa-instagram"></a>
+<a target="_blank" href="https://wa.link/v8ndov " href style="color: green" class="fa fa-whatsapp"> </a>
+<br />
+<a href="privacy policy.html" alt="we don't share Data with to third parties and we don't even collect data, this is just a web blog." href style="color:black; font-size: 20px">privacy policy</a><br /> 
+<br />
+
+
+</b>
+<footer><footer style="font-size: 20px"> © copyright Amaperfecttouch.com</p>
+</html>
